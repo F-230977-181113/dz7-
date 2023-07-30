@@ -117,5 +117,3 @@ int ReadInt(string message)
         }
         mas(m, n);
         arif(m, n);
-    }
-}
